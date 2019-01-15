@@ -23,5 +23,5 @@ let name2: String = "Yoga"
 //Operation
 let answer1: Int = number1 + 100
 let number4 = "500"
-let answer2 = answer1 + Int(number3)// test
+let answer2 = answer1 + Int(number3)
 
